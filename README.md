@@ -15,7 +15,8 @@ npm install
 
 **Set Up Environment Variables**
 
-Create a new file named `.env.local` in the root of your project and add the following content:
+Create a new file named `.env.<development|production>.local`  in the root of your project and add the following 
+content:
 
 ```env
 # PORT
