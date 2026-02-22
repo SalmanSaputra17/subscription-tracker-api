@@ -6,6 +6,7 @@ export const {
     PORT,
     NODE_ENV,
     DB_URI,
+    DB_NAME,
     JWT_SECRET,
     JWT_EXPIRES_IN,
     ARCJET_KEY,
